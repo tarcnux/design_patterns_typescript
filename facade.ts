@@ -1,5 +1,5 @@
 // https://www.typescriptlang.org/
-// https://refactoring.guru/pt-br/design-patterns/facade
+// Padrão Estrutural Facade (Fachada) https://refactoring.guru/pt-br/design-patterns/facade
 // Curso Udemy <https://www.udemy.com/course/design-patterns-em-typescript/>
 
 class ParseHTMML {
